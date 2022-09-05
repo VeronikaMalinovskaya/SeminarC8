@@ -1,0 +1,15 @@
+E:\C#\ДЗ8\Задача62\bin\Debug\net6.0\Задача62.exe
+E:\C#\ДЗ8\Задача62\bin\Debug\net6.0\Задача62.deps.json
+E:\C#\ДЗ8\Задача62\bin\Debug\net6.0\Задача62.runtimeconfig.json
+E:\C#\ДЗ8\Задача62\bin\Debug\net6.0\Задача62.dll
+E:\C#\ДЗ8\Задача62\bin\Debug\net6.0\Задача62.pdb
+E:\C#\ДЗ8\Задача62\obj\Debug\net6.0\Задача62.csproj.AssemblyReference.cache
+E:\C#\ДЗ8\Задача62\obj\Debug\net6.0\Задача62.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ДЗ8\Задача62\obj\Debug\net6.0\Задача62.AssemblyInfoInputs.cache
+E:\C#\ДЗ8\Задача62\obj\Debug\net6.0\Задача62.AssemblyInfo.cs
+E:\C#\ДЗ8\Задача62\obj\Debug\net6.0\Задача62.csproj.CoreCompileInputs.cache
+E:\C#\ДЗ8\Задача62\obj\Debug\net6.0\Задача62.dll
+E:\C#\ДЗ8\Задача62\obj\Debug\net6.0\refint\Задача62.dll
+E:\C#\ДЗ8\Задача62\obj\Debug\net6.0\Задача62.pdb
+E:\C#\ДЗ8\Задача62\obj\Debug\net6.0\Задача62.genruntimeconfig.cache
+E:\C#\ДЗ8\Задача62\obj\Debug\net6.0\ref\Задача62.dll
